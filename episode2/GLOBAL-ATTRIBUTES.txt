@@ -1,0 +1,19 @@
+GLOBAL ATTRIBUTES
+
+accesskey - specifies a shortcut key to activate / focus an element
+
+class - specifies one or more classes
+
+id - specifies a unique id for the element
+
+lang - specifies the language of the html element
+
+style - specifies an inline CSS style for an element
+
+tabindex - specifies the tabbing order of an element
+
+title - specifies extra information about an element
+
+****
+
+
